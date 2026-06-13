@@ -1,7 +1,7 @@
 # Hi there, I'm Raja Hafeez! 👋
 ### 🚀 Software QA Engineer & Test Automation Specialist
 
-A passionate Software Quality Assurance Engineer with 4+ years of experience dedicated to building robust, scalable automation frameworks, ensuring seamless software quality, and implementing efficient CI/CD pipelines.
+A passionate Software Quality Assurance Engineer with 5 years of experience dedicated to building robust, scalable automation frameworks, ensuring seamless software quality, and implementing efficient CI/CD pipelines.
 
 ---
 
@@ -18,11 +18,10 @@ A passionate Software Quality Assurance Engineer with 4+ years of experience ded
 
 ### 📈 Dynamic GitHub Metrics & Real-time Stats
 
-<align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rhafeez522&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhafeez522&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</align>
-
+</p>
 ---
 
 ### 🕹️ Weekly Contributions Tracker
