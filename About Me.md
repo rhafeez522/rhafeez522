@@ -26,7 +26,7 @@
 $ ./hafeez --info
 ```
 ```yaml
-Name    : Raja Hafeez
+Name    : Hafeez Ashraf
 Role    : QA Automation Engineer
 Based   : Riyadh, Saudi Arabia 🇸🇦
 Exp     : 5 Years in QA & Test Automation
