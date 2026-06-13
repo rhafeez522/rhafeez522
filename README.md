@@ -34,7 +34,7 @@ Domains : Banking · Healthcare · Telecom · E-Commerce
 Status  : Open to opportunities in KSA & UAE 🚀
 ```
 
-- 🔭 Currently building **Hybrid Automation Frameworks** with Selenium + TestNG
+- 🔭 Build **Hybrid Automation Frameworks** with Selenium + TestNG
 - 🌱 Leveling up in **REST Assured API Automation**
 - ⚡ Passionate about **Clean Code**, **POM Architecture**, and **CI/CD**
 - 🏆 Certified: **ISTQB Foundation** | **Tricentis Tosca** Specialist
