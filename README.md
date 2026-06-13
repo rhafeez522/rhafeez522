@@ -38,4 +38,4 @@ Below is the auto-updating animation of repository contributions:
 * 🔄 **Dynamic Rerun Mechanisms** using custom TestNG Listeners & Transformers.
 * 🕒 **Continuous Integration** via Jenkins pipelines with cron-scheduled nightly regressions.
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/hafeezashraf522) | rhafeez522@gmail.com
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/hafeezashraf522) | rajahafeez522@gmail.com
