@@ -20,7 +20,7 @@
 <!-- ABOUT ME SECTION -->
 <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
-### 🧪 `whoami`
+### 🧪 `Who am I`
 
 ```bash
 $ ./hafeez --info
