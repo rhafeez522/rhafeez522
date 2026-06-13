@@ -17,11 +17,11 @@ A passionate Software Quality Assurance Engineer with 5 years of experience dedi
 ---
 
 ### 📈 Dynamic GitHub Metrics & Real-time Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rhafeez522&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhafeez522&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhafeez522&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript" width="48%" />
 </p>
+
 ---
 
 ### 🕹️ Weekly Contributions Tracker
