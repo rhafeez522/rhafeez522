@@ -1,5 +1,12 @@
-# Hi there, I'm Raja Hafeez! 👋
-### 🚀 Software QA Engineer & Test Automation Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=cyberpunk&color=auto&text=Raja%20Hafeez&center=true&background=0d1117&height=150&animation=glitch" />
+</p>
+
+## 🚀 Software QA Engineer & Test Automation Specialist
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=4%2B+Years+of+QA+Experience...;Building+Robust+Automation+Frameworks...;Selenium+WebDriver+%2B+TestNG...;Continuous+Integration+via+Jenkins..." />
+</p>
 
 A passionate Software Quality Assurance Engineer with 5 years of experience dedicated to building robust, scalable automation frameworks, ensuring seamless software quality, and implementing efficient CI/CD pipelines.
 
