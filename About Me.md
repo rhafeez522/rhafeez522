@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E1A,50:0D1B2A,100:0A0E1A&height=200&section=header&text=Raja%20Hafeez&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=55&desc=QA%20Automation%20Engineer%20%7C%20Test%20Architect&descSize=18&descAlignY=75&descColor=FFB300&stroke=00E5FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E1A,50:0D1B2A,100:0A0E1A&height=200&section=header&text=HAFEEZ%20ASHRAF&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=55&desc=QA%20Automation%20Engineer%20%7C%20Test%20Architect&descSize=18&descAlignY=75&descColor=FFB300&stroke=00E5FF&strokeWidth=1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=600&lines=%E2%9C%94+5+Years+of+QA+%26+Automation+Experience;%E2%9C%94+Selenium+WebDriver+%2B+TestNG+%2B+Java;%E2%9C%94+CI%2FCD+via+Jenkins+%7C+GitHub+Actions;%E2%9C%94+REST+Assured+%7C+API+Test+Automation;%E2%9C%94+Banking+%7C+Healthcare+%7C+Telecom+%7C+E-Commerce" alt="Typing SVG" />
