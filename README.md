@@ -45,3 +45,7 @@ Below is the auto-updating animation of repository contributions:
 * 🕒 **Continuous Integration** via Jenkins pipelines with cron-scheduled nightly regressions.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/hafeezashraf522) | rajahafeez522@gmail.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rhafeez522&label=Profile%20Views&color=00FFCC&style=flat-square" />
+</p>
