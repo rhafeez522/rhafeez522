@@ -23,7 +23,6 @@
 ### 🧪 `Who am I`
 
 ```bash
-$ ./hafeez --info
 ```
 ```yaml
 Name    : Hafeez Ashraf
