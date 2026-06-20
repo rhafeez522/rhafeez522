@@ -178,9 +178,8 @@ Status  : Open to opportunities in KSA & UAE 🚀
    └─ Core Banking (Equation CBS,    └─ Clinical Systems
       Temenos T24, Fusion Teller)        Manual & Automation QA
    └─ CASA, Trade Finance
-   └─ KYC/AML Testing           📡 TELECOM
-                                    └─ Network Services QA
-🛒 E-COMMERCE                       └─ Billing Systems
+   └─ KYC/AML Testing                                               
+🛒 INSURANCE                     
    └─ End-to-End Flow Testing
    └─ Payment Gateway Testing
 ```
