@@ -26,7 +26,7 @@ Name    : Hafeez Ashraf
 Role    : QA Automation Engineer
 Based   : Riyadh, Saudi Arabia 🇸🇦
 Exp     : 5 Years in QA & Test Automation
-Domains : Banking · Healthcare · Telecom · E-Commerce
+Domains : Banking · Healthcare · Insurance
 Status  : Open to opportunities in KSA & UAE 🚀
 ```
 
