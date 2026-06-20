@@ -21,9 +21,6 @@
 <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
 ### 🧪 `Who am I`
-
-```bash
-```
 ```yaml
 Name    : Hafeez Ashraf
 Role    : QA Automation Engineer
